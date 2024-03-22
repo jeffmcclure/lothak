@@ -1,0 +1,202 @@
+{
+  "MAIN" : [
+    {
+      "ID" : 0,
+      "LIST" : [
+        {
+          "RESREF" : "tic01_e09_01",
+          "STRREF" : 63552
+        },
+        {
+          "RESREF" : "gir01_e01_01",
+          "STRREF" : 63553
+        },
+        {
+          "RESREF" : "tall_b01_01",
+          "STRREF" : 63315
+        },
+        {
+          "RESREF" : "gir01_l07_01",
+          "STRREF" : 63556
+        },
+        {
+          "RESREF" : "gir01_l07_02",
+          "STRREF" : 63557
+        },
+        {
+          "RESREF" : "tic01_o13_01",
+          "STRREF" : 63558
+        },
+        {
+          "RESREF" : "tic01_o14_01",
+          "STRREF" : 63559
+        },
+        {
+          "RESREF" : "tic01_q09_01",
+          "STRREF" : 63560
+        },
+        {
+          "RESREF" : "tic01_q10_01",
+          "STRREF" : 63561
+        },
+        {
+          "RESREF" : "gir01_p09_01",
+          "STRREF" : 63562
+        },
+        {
+          "RESREF" : "gir01_p10_01",
+          "STRREF" : 63563
+        },
+        {
+          "RESREF" : "gir01_p13_01",
+          "STRREF" : 63564
+        },
+        {
+          "RESREF" : "gir01_p14_01",
+          "STRREF" : 63565
+        },
+        {
+          "RESREF" : "gir01_o09_01",
+          "STRREF" : 63566
+        },
+        {
+          "RESREF" : "gir01_o10_01",
+          "STRREF" : 63567
+        },
+        {
+          "RESREF" : "gir01_z20_01",
+          "STRREF" : 63466
+        },
+        {
+          "RESREF" : "gir01_k09_01",
+          "STRREF" : 63334
+        },
+        {
+          "RESREF" : "tic01_i01_01",
+          "STRREF" : 63568
+        },
+        {
+          "RESREF" : "gir01_g01_01",
+          "STRREF" : 63571
+        },
+        {
+          "RESREF" : "tall_a01_01",
+          "STRREF" : 63362
+        },
+        {
+          "RESREF" : "gir01_p16_01",
+          "STRREF" : 63481
+        },
+        {
+          "RESREF" : "gir01_o16_01",
+          "STRREF" : 63483
+        },
+        {
+          "RESREF" : "gir01_k01_01",
+          "STRREF" : 63574
+        },
+        {
+          "RESREF" : "gir01_c01_01",
+          "STRREF" : 63577
+        },
+        {
+          "NAME" : "Fountain - Blood",
+          "RESREF" : "gir01_k09_02"
+        },
+        {
+          "NAME" : "Blood Bath",
+          "RESREF" : "gir01_e09_01"
+        }
+      ],
+      "STRREF" : 63261
+    },
+    {
+      "ID" : 1,
+      "LIST" : [
+        {
+          "RESREF" : "gir01_e04_01",
+          "STRREF" : 63554
+        },
+        {
+          "RESREF" : "gir01_e07_01",
+          "STRREF" : 63555
+        },
+        {
+          "RESREF" : "tic01_i04_01",
+          "STRREF" : 63569
+        },
+        {
+          "RESREF" : "tic01_i07_01",
+          "STRREF" : 63570
+        },
+        {
+          "RESREF" : "tic01_g04_01",
+          "STRREF" : 63572
+        },
+        {
+          "RESREF" : "tic01_g07_01",
+          "STRREF" : 63573
+        },
+        {
+          "RESREF" : "gir01_k04_01",
+          "STRREF" : 63575
+        },
+        {
+          "RESREF" : "gir01_k07_01",
+          "STRREF" : 63576
+        },
+        {
+          "RESREF" : "gir01_c04_01",
+          "STRREF" : 63578
+        },
+        {
+          "RESREF" : "gir01_c07_01",
+          "STRREF" : 63579
+        }
+      ],
+      "STRREF" : 63262
+    },
+    {
+      "ID" : 2,
+      "LIST" : [
+        {
+          "RESREF" : "corridor",
+          "STRREF" : 63461
+        },
+        {
+          "RESREF" : "doorway",
+          "STRREF" : 63463
+        },
+        {
+          "RESREF" : "eraser",
+          "STRREF" : 63291
+        },
+        {
+          "RESREF" : "jail",
+          "STRREF" : 63550
+        },
+        {
+          "RESREF" : "library",
+          "STRREF" : 63549
+        },
+        {
+          "RESREF" : "rich",
+          "STRREF" : 63548
+        },
+        {
+          "RESREF" : "stone",
+          "STRREF" : 63551
+        },
+        {
+          "RESREF" : "storage",
+          "STRREF" : 63547
+        },
+        {
+          "RESREF" : "wall",
+          "STRREF" : 63301
+        }
+      ],
+      "STRREF" : 8282
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "MAIN" : [
+    {
+      "ID" : 0,
+      "LIST" : [
+        {
+          "RESREF" : "ttr01_p05_01",
+          "STRREF" : 63636
+        },
+        {
+          "RESREF" : "ttr01_k17_01",
+          "STRREF" : 63309
+        },
+        {
+          "RESREF" : "ttr01_l10_01",
+          "STRREF" : 8811
+        },
+        {
+          "RESREF" : "ttr01_l11_01",
+          "STRREF" : 8812
+        },
+        {
+          "RESREF" : "ttr01_r10_01",
+          "STRREF" : 63677
+        },
+        {
+          "RESREF" : "tall_b01_01",
+          "STRREF" : 63315
+        },
+        {
+          "RESREF" : "ttr01_o07_01",
+          "STRREF" : 63678
+        },
+        {
+          "RESREF" : "ttr01_s17_01",
+          "STRREF" : 63682
+        },
+        {
+          "RESREF" : "ttr01_g17_01",
+          "STRREF" : 63333
+        },
+        {
+          "RESREF" : "ttr01_u12_01",
+          "STRREF" : 63686
+        },
+        {
+          "RESREF" : "ttr01_v12_01",
+          "STRREF" : 63687
+        },
+        {
+          "RESREF" : "ttr01_s05_01",
+          "STRREF" : 63688
+        },
+        {
+          "RESREF" : "ttr01_o10_01",
+          "STRREF" : 63689
+        },
+        {
+          "RESREF" : "ttr01_o10_02",
+          "STRREF" : 63690
+        },
+        {
+          "RESREF" : "ttr01_o10_03",
+          "STRREF" : 63691
+        },
+        {
+          "RESREF" : "ttr01_o10_04",
+          "STRREF" : 63692
+        },
+        {
+          "RESREF" : "ttr01_o10_05",
+          "STRREF" : 63693
+        },
+        {
+          "RESREF" : "ttr01_s07_01",
+          "STRREF" : 63694
+        },
+        {
+          "RESREF" : "ttr01_t07_01",
+          "STRREF" : 63695
+        },
+        {
+          "RESREF" : "ttr01_o12_01",
+          "STRREF" : 63697
+        },
+        {
+          "RESREF" : "ttr01_o14_01",
+          "STRREF" : 63698
+        },
+        {
+          "RESREF" : "ttr01_q06_01",
+          "STRREF" : 63699
+        },
+        {
+          "RESREF" : "ttr01_t17_01",
+          "STRREF" : 63700
+        },
+        {
+          "RESREF" : "tall_a01_01",
+          "STRREF" : 63362
+        },
+        {
+          "RESREF" : "ttr01_h17_01",
+          "STRREF" : 63363
+        },
+        {
+          "RESREF" : "ttr01_h02_03",
+          "STRREF" : 63701
+        },
+        {
+          "RESREF" : "ttr01_q05_01",
+          "STRREF" : 63705
+        },
+        {
+          "RESREF" : "ttr01_o11_01",
+          "STRREF" : 63706
+        },
+        {
+          "RESREF" : "ttr01_u01_01",
+          "STRREF" : 63662
+        },
+        {
+          "RESREF" : "ttr01_o13_01",
+          "STRREF" : 63380
+        },
+        {
+          "RESREF" : "ttr01_p07_01",
+          "STRREF" : 63711
+        },
+        {
+          "RESREF" : "ttr01_l03_01",
+          "STRREF" : 3167
+        },
+        {
+          "RESREF" : "ttr01_i17_01",
+          "STRREF" : 63713
+        },
+        {
+          "RESREF" : "ttr01_h18_01",
+          "STRREF" : 63712
+        },
+        {
+          "RESREF" : "ttr01_j17_01",
+          "STRREF" : 63715
+        },
+        {
+          "RESREF" : "ttr01_h19_01",
+          "STRREF" : 63714
+        },
+        {
+          "RESREF" : "ttr01_u14_01",
+          "STRREF" : 63716
+        },
+        {
+          "RESREF" : "ttr01_v14_01",
+          "STRREF" : 63717
+        },
+        {
+          "RESREF" : "ttr01_o05_01",
+          "STRREF" : 63719
+        }
+      ],
+      "STRREF" : 63261
+    },
+    {
+      "ID" : 1,
+      "LIST" : [
+        {
+          "RESREF" : "ttr01_s02_01",
+          "STRREF" : 63673
+        },
+        {
+          "RESREF" : "ttr01_s03_01",
+          "STRREF" : 63674
+        },
+        {
+          "RESREF" : "ttr01_s04_01",
+          "STRREF" : 63675
+        },
+        {
+          "RESREF" : "ttr01_s18_01",
+          "STRREF" : 63676
+        },
+        {
+          "RESREF" : "ttr01_e20_01",
+          "STRREF" : 63306
+        },
+        {
+          "RESREF" : "ttr01_l02_01",
+          "STRREF" : 63317
+        },
+        {
+          "RESREF" : "ttr01_o06_01",
+          "STRREF" : 63637
+        },
+        {
+          "RESREF" : "ttr01_n18_01",
+          "STRREF" : 63330
+        },
+        {
+          "RESREF" : "ttr01_s09_01",
+          "STRREF" : 63679
+        },
+        {
+          "RESREF" : "ttr01_s10_01",
+          "STRREF" : 63680
+        },
+        {
+          "RESREF" : "ttr01_s11_01",
+          "STRREF" : 63681
+        },
+        {
+          "RESREF" : "ttr01_s13_01",
+          "STRREF" : 63683
+        },
+        {
+          "RESREF" : "ttr01_s15_01",
+          "STRREF" : 63684
+        },
+        {
+          "RESREF" : "ttr01_s16_01",
+          "STRREF" : 63685
+        },
+        {
+          "RESREF" : "ttr01_n11_01",
+          "STRREF" : 63341
+        },
+        {
+          "RESREF" : "ttr01_e18_01",
+          "STRREF" : 63342
+        },
+        {
+          "RESREF" : "ttr01_s06_01",
+          "STRREF" : 63696
+        },
+        {
+          "RESREF" : "ttr01_n04_01",
+          "STRREF" : 63358
+        },
+        {
+          "RESREF" : "ttr01_u17_01",
+          "STRREF" : 63702
+        },
+        {
+          "RESREF" : "ttr01_u19_01",
+          "STRREF" : 63703
+        },
+        {
+          "RESREF" : "ttr01_v19_01",
+          "STRREF" : 63369
+        },
+        {
+          "RESREF" : "ttr01_u09_01",
+          "STRREF" : 63709
+        },
+        {
+          "RESREF" : "ttr01_u04_01",
+          "STRREF" : 63707
+        },
+        {
+          "RESREF" : "ttr01_u06_01",
+          "STRREF" : 63708
+        },
+        {
+          "RESREF" : "ttr01_s19_01",
+          "STRREF" : 63710
+        },
+        {
+          "RESREF" : "ttr01_u13_01",
+          "STRREF" : 63718
+        },
+        {
+          "RESREF" : "ttr01_u11_01",
+          "STRREF" : 63720
+        },
+        {
+          "RESREF" : "ttr01_e17_01",
+          "STRREF" : 63388
+        }
+      ],
+      "STRREF" : 63262
+    },
+    {
+      "ID" : 2,
+      "LIST" : [
+        {
+          "RESREF" : "eraser",
+          "STRREF" : 63291
+        },
+        {
+          "RESREF" : "grass",
+          "STRREF" : 63635
+        },
+        {
+          "RESREF" : "raiselower",
+          "STRREF" : 63292
+        },
+        {
+          "RESREF" : "road",
+          "STRREF" : 63641
+        },
+        {
+          "RESREF" : "stream",
+          "STRREF" : 63302
+        },
+        {
+          "RESREF" : "trees",
+          "STRREF" : 63670
+        },
+        {
+          "RESREF" : "wall1",
+          "STRREF" : 63671
+        },
+        {
+          "RESREF" : "wall2",
+          "STRREF" : 63672
+        },
+        {
+          "RESREF" : "water",
+          "STRREF" : 5631
+        },
+        {
+          "NAME" : "Castle - Black Stones",
+          "RESREF" : "goodcastle_pas2"
+        },
+        {
+          "NAME" : "Castle - Grey Stones",
+          "RESREF" : "goodcastle_pas3"
+        },
+        {
+          "NAME" : "Castle - Brown Stones",
+          "RESREF" : "goodcastle_pas4"
+        },
+        {
+          "NAME" : "Castle - Dark Stones",
+          "RESREF" : "goodcastle_pas1"
+        }
+      ],
+      "STRREF" : 8282
+    }
+  ]
+}

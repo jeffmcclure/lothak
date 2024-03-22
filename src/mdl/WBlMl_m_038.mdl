@@ -1,0 +1,53 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: wq
+filedependancy Spiked_Mace.max
+newmodel wq
+setsupermodel wq NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom wq
+node dummy wq
+  parent NULL
+endnode
+node trimesh Middle
+  parent wq
+  position -0.00452399 0.35 0
+  orientation -1 0 0 -1.5708
+  wirecolor 0.894531 0.894531 0.894531
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0.7 0.7 0.7
+  shininess 5
+  bitmap Chrome-Tex
+  verts 12
+    0.00591087 -0.0102379 0.260078
+    -0.00591086 -0.0102379 0.260078
+    -0.0118217 0 0.260078
+    -0.00591086 0.0102379 0.260078
+    0.00591086 0.0102379 0.260078
+    0.0118217 0 0.260078
+    -0.00591086 -0.0102379 -0.0472869
+    0.00591087 -0.0102379 -0.0472869
+    -0.0118217 0 -0.0472869
+    -0.00591086 0.0102379 -0.0472869
+    0.00591086 0.0102379 -0.0472869
+    0.0118217 0 -0.0472869
+  faces 12
+    0 1 6  1  0 0 0  0
+    6 7 0  1  0 0 0  0
+    1 2 8  1  0 0 0  0
+    8 6 1  1  0 0 0  0
+    2 3 9  1  0 0 0  0
+    9 8 2  1  0 0 0  0
+    3 4 10  1  0 0 0  0
+    10 9 3  1  0 0 0  0
+    4 5 11  1  0 0 0  0
+    11 10 4  1  0 0 0  0
+    5 0 7  1  0 0 0  0
+    7 11 5  1  0 0 0  0
+endnode
+endmodelgeom wq
+donemodel wq

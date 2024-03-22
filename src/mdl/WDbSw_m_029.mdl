@@ -1,0 +1,16 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: WDbSw_m_029
+filedependancy BW_DoubleSword.max
+newmodel WDbSw_m_029
+setsupermodel WDbSw_m_029 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom WDbSw_m_029
+node dummy WDbSw_m_029
+  parent NULL
+endnode
+endmodelgeom WDbSw_m_029
+donemodel WDbSw_m_029

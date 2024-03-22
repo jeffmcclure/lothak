@@ -1,0 +1,210 @@
+{
+  "MAIN" : [
+    {
+      "ID" : 0,
+      "LIST" : [
+        {
+          "RESREF" : "tcr01_o09_01",
+          "STRREF" : 63464
+        },
+        {
+          "RESREF" : "tcr01_o09_02",
+          "STRREF" : 63465
+        },
+        {
+          "RESREF" : "tcr01_p09_01",
+          "STRREF" : 63496
+        },
+        {
+          "RESREF" : "tcr01_p09_02",
+          "STRREF" : 63502
+        },
+        {
+          "RESREF" : "tcr01_j07_01",
+          "STRREF" : 63309
+        },
+        {
+          "RESREF" : "tall_b01_01",
+          "STRREF" : 63315
+        },
+        {
+          "RESREF" : "tcr01_u04_01",
+          "STRREF" : 63504
+        },
+        {
+          "RESREF" : "tcr01_v04_01",
+          "STRREF" : 63505
+        },
+        {
+          "RESREF" : "tcr01_u06_01",
+          "STRREF" : 63506
+        },
+        {
+          "RESREF" : "tcr01_u07_01",
+          "STRREF" : 63507
+        },
+        {
+          "RESREF" : "tcr01_z20_01",
+          "STRREF" : 63466
+        },
+        {
+          "RESREF" : "tcr01_o11_01",
+          "STRREF" : 63467
+        },
+        {
+          "RESREF" : "tcr01_p11_01",
+          "STRREF" : 63468
+        },
+        {
+          "RESREF" : "tcr01_p11_02",
+          "STRREF" : 63508
+        },
+        {
+          "RESREF" : "tcr01_k07_01",
+          "STRREF" : 63469
+        },
+        {
+          "RESREF" : "tcr01_k07_02",
+          "STRREF" : 63470
+        },
+        {
+          "RESREF" : "tcr01_p01_01",
+          "STRREF" : 63509
+        },
+        {
+          "RESREF" : "tcr01_p06_01",
+          "STRREF" : 63511
+        },
+        {
+          "RESREF" : "tcr01_q01_01",
+          "STRREF" : 63473
+        },
+        {
+          "RESREF" : "tcr01_r01_01",
+          "STRREF" : 63474
+        },
+        {
+          "RESREF" : "tall_a01_01",
+          "STRREF" : 63362
+        },
+        {
+          "RESREF" : "tcr01_o13_01",
+          "STRREF" : 63515
+        },
+        {
+          "RESREF" : "tcr01_q13_01",
+          "STRREF" : 63517
+        },
+        {
+          "RESREF" : "tcr01_p13_01",
+          "STRREF" : 63521
+        },
+        {
+          "RESREF" : "tcr01_r13_01",
+          "STRREF" : 63522
+        },
+        {
+          "RESREF" : "tcr01_q02_01",
+          "STRREF" : 63485
+        },
+        {
+          "RESREF" : "tcr01_r02_01",
+          "STRREF" : 63486
+        }
+      ],
+      "STRREF" : 63261
+    },
+    {
+      "ID" : 1,
+      "LIST" : [
+        {
+          "RESREF" : "tcr01_s08_01",
+          "STRREF" : 63472
+        },
+        {
+          "RESREF" : "tcr01_s02_01",
+          "STRREF" : 63476
+        },
+        {
+          "RESREF" : "tcr01_s11_01",
+          "STRREF" : 63477
+        },
+        {
+          "RESREF" : "tcr01_s18_01",
+          "STRREF" : 63478
+        },
+        {
+          "RESREF" : "tcr01_s13_01",
+          "STRREF" : 63479
+        },
+        {
+          "RESREF" : "tcr01_s15_01",
+          "STRREF" : 63480
+        },
+        {
+          "RESREF" : "tcr01_u02_01",
+          "STRREF" : 63514
+        },
+        {
+          "RESREF" : "tcr01_o16_01",
+          "STRREF" : 63482
+        },
+        {
+          "RESREF" : "tcr01_o18_01",
+          "STRREF" : 63484
+        },
+        {
+          "RESREF" : "tcr01_s04_01",
+          "STRREF" : 63487
+        },
+        {
+          "RESREF" : "tcr01_s06_01",
+          "STRREF" : 63488
+        }
+      ],
+      "STRREF" : 63262
+    },
+    {
+      "ID" : 2,
+      "LIST" : [
+        {
+          "RESREF" : "bridge",
+          "STRREF" : 63304
+        },
+        {
+          "RESREF" : "corridor",
+          "STRREF" : 63461
+        },
+        {
+          "RESREF" : "doorway",
+          "STRREF" : 63463
+        },
+        {
+          "RESREF" : "eraser",
+          "STRREF" : 63291
+        },
+        {
+          "RESREF" : "fence",
+          "STRREF" : 63462
+        },
+        {
+          "RESREF" : "floor",
+          "STRREF" : 63459
+        },
+        {
+          "RESREF" : "tracks",
+          "STRREF" : 63501
+        },
+        {
+          "RESREF" : "wall",
+          "STRREF" : 63301
+        },
+        {
+          "RESREF" : "water",
+          "STRREF" : 5631
+        }
+      ],
+      "STRREF" : 8282
+    }
+  ]
+}

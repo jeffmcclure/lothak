@@ -1,0 +1,60 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: WPlSs_m_018
+filedependancy BW_Spear.max
+newmodel WPlSs_m_018
+setsupermodel WPlSs_m_018 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom WPlSs_m_018
+node dummy WPlSs_m_018
+  parent NULL
+endnode
+node trimesh HS_Low
+  parent WPlSs_m_018
+  position 0 0.77 0
+  orientation 0.57735 -0.57735 0.57735 -4.18879
+  wirecolor 0.601563 0.601563 0.601563
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0.7 0.7 0.7
+  shininess 5
+  bitmap Black-Tex
+  verts 13
+    -0.00955234 -0.0165451 0.111527
+    0.00955234 -0.0165451 0.111527
+    -0.0191047 0 0.111527
+    -0.00955234 0.0165451 0.111527
+    0.00955234 0.0165451 0.111527
+    0.0191047 0 0.111527
+    0.00955218 -0.0165451 1.2268
+    -0.0095523 -0.0165456 1.2268
+    0 0 1.2268
+    -0.0191045 0 1.2268
+    -0.00955224 0.0165451 1.2268
+    0.00955278 0.016545 1.2268
+    0.019105 0 1.2268
+  faces 18
+    7 6 8  1  0 0 0  0
+    9 7 8  1  0 0 0  0
+    10 9 8  1  0 0 0  0
+    11 10 8  1  0 0 0  0
+    12 11 8  1  0 0 0  0
+    6 12 8  1  0 0 0  0
+    0 1 6  1  0 0 0  0
+    6 7 0  1  0 0 0  0
+    2 0 7  1  0 0 0  0
+    7 9 2  1  0 0 0  0
+    3 2 9  1  0 0 0  0
+    9 10 3  1  0 0 0  0
+    4 3 10  1  0 0 0  0
+    10 11 4  1  0 0 0  0
+    5 4 11  1  0 0 0  0
+    11 12 5  1  0 0 0  0
+    1 5 12  1  0 0 0  0
+    12 6 1  1  0 0 0  0
+endnode
+endmodelgeom WPlSs_m_018
+donemodel WPlSs_m_018

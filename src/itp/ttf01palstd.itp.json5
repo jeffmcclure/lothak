@@ -1,0 +1,182 @@
+{
+  "MAIN" : [
+    {
+      "ID" : 0,
+      "LIST" : [
+        {
+          "RESREF" : "ttf01_p15_01",
+          "STRREF" : 63642
+        },
+        {
+          "RESREF" : "ttf01_h07_01",
+          "STRREF" : 63643
+        },
+        {
+          "RESREF" : "ttf01_s16_01",
+          "STRREF" : 63544
+        },
+        {
+          "RESREF" : "tall_b01_01",
+          "STRREF" : 63315
+        },
+        {
+          "RESREF" : "ttf01_p12_01",
+          "STRREF" : 63669
+        },
+        {
+          "RESREF" : "ttf01_s18_01",
+          "STRREF" : 63649
+        },
+        {
+          "RESREF" : "tall_a01_01",
+          "STRREF" : 63362
+        },
+        {
+          "RESREF" : "ttf01_s04_01",
+          "STRREF" : 63654
+        },
+        {
+          "RESREF" : "ttf01_j07_01",
+          "STRREF" : 63659
+        },
+        {
+          "RESREF" : "ttf01_j07_02",
+          "STRREF" : 63660
+        },
+        {
+          "RESREF" : "ttf01_p18_01",
+          "STRREF" : 63662
+        },
+        {
+          "RESREF" : "ttf01_i07_01",
+          "STRREF" : 63667
+        },
+        {
+          "RESREF" : "ttf01_i07_02",
+          "STRREF" : 63668
+        },
+        {
+          "RESREF" : "ttf01_p14_01",
+          "STRREF" : 63663
+        },
+        {
+          "RESREF" : "ttf01_p13_01",
+          "STRREF" : 63664
+        }
+      ],
+      "STRREF" : 63261
+    },
+    {
+      "ID" : 1,
+      "LIST" : [
+        {
+          "RESREF" : "ttf01_s14_01",
+          "STRREF" : 63645
+        },
+        {
+          "RESREF" : "ttf01_s15_01",
+          "STRREF" : 63646
+        },
+        {
+          "RESREF" : "ttf01_o09_01",
+          "STRREF" : 63647
+        },
+        {
+          "RESREF" : "ttf01_o11_01",
+          "STRREF" : 63648
+        },
+        {
+          "RESREF" : "ttf01_s17_01",
+          "STRREF" : 63650
+        },
+        {
+          "RESREF" : "ttf01_o07_01",
+          "STRREF" : 63651
+        },
+        {
+          "RESREF" : "ttf01_s12_01",
+          "STRREF" : 63652
+        },
+        {
+          "RESREF" : "ttf01_o16_01",
+          "STRREF" : 63653
+        },
+        {
+          "RESREF" : "ttf01_s02_01",
+          "STRREF" : 63655
+        },
+        {
+          "RESREF" : "ttf01_s03_01",
+          "STRREF" : 63656
+        },
+        {
+          "RESREF" : "ttf01_s09_01",
+          "STRREF" : 63657
+        },
+        {
+          "RESREF" : "ttf01_s10_01",
+          "STRREF" : 63658
+        },
+        {
+          "RESREF" : "ttf01_s07_01",
+          "STRREF" : 63661
+        }
+      ],
+      "STRREF" : 63262
+    },
+    {
+      "ID" : 2,
+      "LIST" : [
+        {
+          "RESREF" : "bridge",
+          "STRREF" : 63304
+        },
+        {
+          "RESREF" : "cliff",
+          "STRREF" : 63639
+        },
+        {
+          "RESREF" : "eraser",
+          "STRREF" : 63291
+        },
+        {
+          "RESREF" : "forest",
+          "STRREF" : 63640
+        },
+        {
+          "RESREF" : "pit",
+          "STRREF" : 63460
+        },
+        {
+          "RESREF" : "road",
+          "STRREF" : 63641
+        },
+        {
+          "RESREF" : "stream",
+          "STRREF" : 63302
+        },
+        {
+          "RESREF" : "wall",
+          "STRREF" : 63301
+        },
+        {
+          "NAME" : "Castle - Black Stones",
+          "RESREF" : "goodcastle_pas2"
+        },
+        {
+          "NAME" : "Castle - Grey Stones",
+          "RESREF" : "goodcastle_pas3"
+        },
+        {
+          "NAME" : "Castle - Brown Stones",
+          "RESREF" : "goodcastle_pas4"
+        },
+        {
+          "NAME" : "Castle - Dark Stones",
+          "RESREF" : "goodcastle_pas1"
+        }
+      ],
+      "STRREF" : 8282
+    }
+  ]
+}

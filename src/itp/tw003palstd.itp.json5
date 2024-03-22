@@ -1,0 +1,238 @@
+{
+  "MAIN" : [
+    {
+      "ID" : 0,
+      "LIST" : [
+        {
+          "RESREF" : "tw003_o09_01",
+          "STRREF" : 63464
+        },
+        {
+          "RESREF" : "tw003_o09_02",
+          "STRREF" : 63465
+        },
+        {
+          "RESREF" : "tw003_p09_01",
+          "STRREF" : 63496
+        },
+        {
+          "RESREF" : "tw003_p09_02",
+          "STRREF" : 63502
+        },
+        {
+          "RESREF" : "tw003_j07_01",
+          "STRREF" : 63309
+        },
+        {
+          "RESREF" : "tall_b01_01",
+          "STRREF" : 63315
+        },
+        {
+          "RESREF" : "tw003_u04_01",
+          "STRREF" : 63504
+        },
+        {
+          "RESREF" : "tw003_v04_01",
+          "STRREF" : 63505
+        },
+        {
+          "RESREF" : "tw003_u06_01",
+          "STRREF" : 63506
+        },
+        {
+          "RESREF" : "tw003_u07_01",
+          "STRREF" : 63507
+        },
+        {
+          "RESREF" : "tw003_z20_01",
+          "STRREF" : 63466
+        },
+        {
+          "RESREF" : "tw003_o11_01",
+          "STRREF" : 63467
+        },
+        {
+          "RESREF" : "tw003_p11_01",
+          "STRREF" : 63468
+        },
+        {
+          "RESREF" : "tw003_p11_02",
+          "STRREF" : 63508
+        },
+        {
+          "RESREF" : "tw003_k07_01",
+          "STRREF" : 63469
+        },
+        {
+          "RESREF" : "tw003_k07_02",
+          "STRREF" : 63470
+        },
+        {
+          "RESREF" : "tw003_p01_01",
+          "STRREF" : 63509
+        },
+        {
+          "RESREF" : "tw003_p06_01",
+          "STRREF" : 63511
+        },
+        {
+          "RESREF" : "tw003_q01_01",
+          "STRREF" : 63473
+        },
+        {
+          "RESREF" : "tw003_r01_01",
+          "STRREF" : 63474
+        },
+        {
+          "RESREF" : "tall_a01_01",
+          "STRREF" : 63362
+        },
+        {
+          "RESREF" : "tw003_o13_01",
+          "STRREF" : 63515
+        },
+        {
+          "RESREF" : "tw003_q13_01",
+          "STRREF" : 63517
+        },
+        {
+          "RESREF" : "tw003_p13_01",
+          "STRREF" : 63521
+        },
+        {
+          "RESREF" : "tw003_r13_01",
+          "STRREF" : 63522
+        },
+        {
+          "RESREF" : "tw003_q02_01",
+          "STRREF" : 63485
+        },
+        {
+          "RESREF" : "tw003_r02_01",
+          "STRREF" : 63486
+        },
+        {
+          "NAME" : "Treasure 2 Lava",
+          "RESREF" : "tw03a_r02_01"
+        },
+        {
+          "NAME" : "Bridge Door - Lava",
+          "RESREF" : "tw03a_j07_01"
+        },
+        {
+          "NAME" : "Bridge Door - Pit",
+          "RESREF" : "tw03b_j07_01"
+        }
+      ],
+      "STRREF" : 63261
+    },
+    {
+      "ID" : 1,
+      "LIST" : [
+        {
+          "RESREF" : "tw003_s08_01",
+          "STRREF" : 63472
+        },
+        {
+          "RESREF" : "tw003_s02_01",
+          "STRREF" : 63476
+        },
+        {
+          "RESREF" : "tw003_s11_01",
+          "STRREF" : 63477
+        },
+        {
+          "RESREF" : "tw003_s18_01",
+          "STRREF" : 63478
+        },
+        {
+          "RESREF" : "tw003_s13_01",
+          "STRREF" : 63479
+        },
+        {
+          "RESREF" : "tw003_s15_01",
+          "STRREF" : 63480
+        },
+        {
+          "RESREF" : "tw003_u02_01",
+          "STRREF" : 63514
+        },
+        {
+          "RESREF" : "tw003_o16_01",
+          "STRREF" : 63482
+        },
+        {
+          "RESREF" : "tw003_o19_01",
+          "STRREF" : 63484
+        },
+        {
+          "RESREF" : "tw003_s04_01",
+          "STRREF" : 63487
+        },
+        {
+          "RESREF" : "tw003_s06_01",
+          "STRREF" : 63488
+        },
+        {
+          "NAME" : "Wall Section Lava 1x2",
+          "RESREF" : "tw03a_s04_01"
+        },
+        {
+          "NAME" : "Stairs Up Lava 2x2",
+          "RESREF" : "tw03a_o19_01"
+        }
+      ],
+      "STRREF" : 63262
+    },
+    {
+      "ID" : 2,
+      "LIST" : [
+        {
+          "RESREF" : "bridge",
+          "STRREF" : 63304
+        },
+        {
+          "RESREF" : "corridor",
+          "STRREF" : 63461
+        },
+        {
+          "RESREF" : "doorway",
+          "STRREF" : 63463
+        },
+        {
+          "RESREF" : "eraser",
+          "STRREF" : 63291
+        },
+        {
+          "RESREF" : "fence",
+          "STRREF" : 63462
+        },
+        {
+          "RESREF" : "floor",
+          "STRREF" : 63459
+        },
+        {
+          "RESREF" : "tracks",
+          "STRREF" : 63501
+        },
+        {
+          "RESREF" : "wall",
+          "STRREF" : 63301
+        },
+        {
+          "RESREF" : "water",
+          "STRREF" : 5631
+        },
+        {
+          "NAME" : "Lava",
+          "RESREF" : "lava"
+        },
+        {
+          "NAME" : "Pit",
+          "RESREF" : "pit"
+        }
+      ],
+      "STRREF" : 8282
+    }
+  ]
+}

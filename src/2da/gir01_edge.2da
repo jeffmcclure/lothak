@@ -1,0 +1,22 @@
+2DA V2.0
+
+       Corner1     Edge         Corner2     Height     Model            
+0      Library     ****         Library     0          TIC01_O20_01     
+1      Rich        ****         Rich        0          TIC01_O20_01     
+2      Stone       ****         Stone       0          TIC01_O20_01     
+3      Storage     ****         Storage     0          TIC01_O20_01     
+4      Jail        ****         Jail        0          TIC01_O20_01     
+5      Wall        ****         Stone       0          TIC01_O20_01     
+6      Wall        ****         Jail        0          TIC01_O20_01     
+7      Wall        ****         Library     0          TIC01_O20_01     
+8      Wall        ****         Rich        0          TIC01_O20_01     
+9      Wall        ****         Storage     0          TIC01_O20_01     
+10     Wall        Corridor     Wall        0          TIC01_O20_01     
+11     Library     ****         ****        0          TIC01_O20_01     
+12     Rich        ****         ****        0          TIC01_O20_01     
+13     Stone       ****         ****        0          TIC01_O20_01     
+14     Storage     ****         ****        0          TIC01_O20_01       
+15     Jail        ****         ****        0          TIC01_O20_01     
+16     Wall        ****         ****        0          TIC01_O20_01     
+17     Wall        ****         Wall        0          TIC01_O20_01     
+18     Wall        Doorways     Wall        0          TIC01_O20_01     

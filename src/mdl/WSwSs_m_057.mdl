@@ -1,0 +1,16 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: WSwSs_m_057
+filedependancy Horus_SS.max
+newmodel WSwSs_m_057
+setsupermodel WSwSs_m_057 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom WSwSs_m_057
+node dummy WSwSs_m_057
+  parent NULL
+endnode
+endmodelgeom WSwSs_m_057
+donemodel WSwSs_m_057

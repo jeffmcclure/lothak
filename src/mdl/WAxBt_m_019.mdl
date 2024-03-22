@@ -1,0 +1,66 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: WAxBt_m_019
+filedependancy DragonSlayer.max
+newmodel WAxBt_m_019
+setsupermodel WAxBt_m_019 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom WAxBt_m_019
+node dummy WAxBt_m_019
+  parent NULL
+endnode
+node trimesh WAxBt_m_019
+  parent WAxBt_m_019
+  position 0 0.08 -0.01
+  orientation 0 0 0 0
+  wirecolor 0.605469 0.605469 0.605469
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0.7 0.7 0.7
+  shininess 5
+  bitmap DragonAxe-Tex
+  verts 12
+    -0.0112386 0.222291 -0.0194658
+    0.0112386 0.222291 -0.0194658
+    0.0224772 0.222291 0
+    0.0112386 0.222291 0.0194658
+    -0.0112386 0.222291 0.0194658
+    -0.0224772 0.222291 0
+    -0.0107185 -0.171022 -0.0194735
+    0.0117587 -0.171022 -0.0194735
+    0.0229973 -0.171022 0
+    0.0117587 -0.171022 0.0194582
+    -0.0107185 -0.171022 0.0194582
+    -0.0219571 -0.171022 0
+  faces 12
+    0 1 7  1  0 1 2  0
+    7 6 0  1  2 3 0  0
+    1 2 8  1  1 4 5  0
+    8 7 1  1  5 2 1  0
+    2 3 9  1  4 6 7  0
+    9 8 2  1  7 5 4  0
+    3 4 10  1  6 8 9  0
+    10 9 3  1  9 7 6  0
+    4 5 11  1  8 10 11  0
+    11 10 4  1  11 9 8  0
+    5 0 6  1  10 0 3  0
+    6 11 5  1  3 11 10  0
+  tverts 12
+    0.952853 0.176178 0
+    0.952853 0.176178 0
+    0.0948197 0.176178 0
+    0.0948197 0.176178 0
+    0.952853 0.149317 0
+    0.0948197 0.149317 0
+    0.952853 0.122457 0
+    0.0948197 0.122457 0
+    0.952853 0.122457 0
+    0.0948197 0.122457 0
+    0.952853 0.149317 0
+    0.0948197 0.149317 0
+endnode
+endmodelgeom WAxBt_m_019
+donemodel WAxBt_m_019

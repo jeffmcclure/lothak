@@ -1,0 +1,21 @@
+{
+  "MAIN" : [
+    {
+      "DeleteMe" : "Features",
+      "ID" : 0,
+      "STRREF" : 63261
+    },
+    {
+      "DeleteMe" : "Groups",
+      "ID" : 1,
+      "STRREF" : 63262
+    },
+    {
+      "DeleteMe" : "Terrain",
+      "ID" : 2,
+      "STRREF" : 8282
+    }
+  ],
+  "NextUsableId" : 3,
+  "ResType" : 2013
+}

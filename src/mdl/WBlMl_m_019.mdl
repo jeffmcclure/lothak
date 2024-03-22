@@ -1,0 +1,66 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: WBlMl_m_019
+filedependancy DragonMace.max
+newmodel WBlMl_m_019
+setsupermodel WBlMl_m_019 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom WBlMl_m_019
+node dummy WBlMl_m_019
+  parent NULL
+endnode
+node trimesh Middle
+  parent WBlMl_m_019
+  position 0 -0.128929 0
+  orientation 0 0 0 0
+  wirecolor 0.242188 0.242188 0.242188
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0.7 0.7 0.7
+  shininess 5
+  bitmap DragonMace-Tex
+  verts 12
+    -0.0135641 0.268287 -0.0234937
+    0.0135641 0.268287 -0.0234937
+    0.0271282 0.268287 0
+    0.0135641 0.268287 0.0234937
+    -0.0135641 0.268287 0.0234937
+    -0.0271282 0.268287 0
+    -0.0135641 0.0819417 -0.0234937
+    0.0135641 0.0819417 -0.0234937
+    0.0271282 0.0819417 0
+    0.0135641 0.0819417 0.0234937
+    -0.0135641 0.0819417 0.0234937
+    -0.0271282 0.0819417 0
+  faces 12
+    6 0 1  1  3 0 1  0
+    1 7 6  1  1 2 3  0
+    7 1 2  1  2 1 4  0
+    2 8 7  1  4 5 2  0
+    8 2 3  1  5 4 6  0
+    3 9 8  1  6 7 5  0
+    9 3 4  1  7 6 8  0
+    4 10 9  1  8 9 7  0
+    10 4 5  1  9 8 10  0
+    5 11 10  1  10 11 9  0
+    11 5 0  1  11 10 0  0
+    0 6 11  1  0 3 11  0
+  tverts 12
+    0.985125 0.53034 0
+    0.985125 0.53034 0
+    0.0135282 0.53034 0
+    0.0135282 0.53034 0
+    0.985125 0.499924 0
+    0.0135282 0.499924 0
+    0.985125 0.469509 0
+    0.0135282 0.469509 0
+    0.985125 0.469509 0
+    0.0135282 0.469509 0
+    0.985125 0.499924 0
+    0.0135282 0.499924 0
+endnode
+endmodelgeom WBlMl_m_019
+donemodel WBlMl_m_019
