@@ -5,13 +5,13 @@
     "dirPath" : [ ],
     "erfPath" : [ ],
     "name" : "",
-    "overwrite" : false,
+    "overwrite" : true,
     "rules" : {
       "module.*" : "src",
       "*.ncs" : "target/ncs"
     },
-    "source" : "${nwnHome}/hak/lotcephak1.hak",
-    "target" : "${nwnHome}/hak/lotcephak1a.hak",
+    "source" : "${nwnHome}/hak/lot2.hak",
+    "target" : "${nwnHome}/hak/lot2.hak",
     "url" : ""
   }
 ]
