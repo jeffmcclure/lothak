@@ -1,0 +1,17 @@
+[
+  {
+    "author" : "",
+    "description" : "",
+    "dirPath" : [ ],
+    "erfPath" : [ ],
+    "name" : "",
+    "overwrite" : false,
+    "rules" : {
+      "module.*" : "src",
+      "*.ncs" : "target/ncs"
+    },
+    "source" : "${nwnHome}/hak/lotcephak1.hak",
+    "target" : "${nwnHome}/hak/lotcephak1a.hak",
+    "url" : ""
+  }
+]
