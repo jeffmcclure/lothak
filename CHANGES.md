@@ -1,5 +1,8 @@
 [Return to README.md](README.md)
 
+# 2.0.3 &mdash; 2024-04-11
+* Sharpen Mello's portrait image
+
 # 2.0.2 &mdash; 2024-04-11
 * Add missing resolutions for new henchman portraits
 
